@@ -1,4 +1,4 @@
- <img align="right" alt="coding" width="400" src="[C:\Users\Vishi\Downloads\WhatsApp Image 2023-10-03 at 1.46.13 PM.jpeg](https://www.webcodebuddy.com/wp-content/uploads/2019/01/how-to-start-coding.jpeg)">
+ <img align="right" alt="coding" width="400" src="[C:\Users\Vishi\Downloads\WhatsApp Image 2023-10-03 at 1.46.13 PM.jpeg](https://www.webcodebuddy.com/wp-content/uploads/2019/01/how-to-start-coding.jpeg)"/>
  
 <h1 align="center">Hi 👋, I'm Vikas Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
