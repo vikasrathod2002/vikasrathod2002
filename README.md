@@ -1,9 +1,8 @@
-
+ <img align="right" alt="coding" width="400" src="[C:\Users\Vishi\Downloads\WhatsApp Image 2023-10-03 at 1.46.13 PM.jpeg](https://www.webcodebuddy.com/wp-content/uploads/2019/01/how-to-start-coding.jpeg)">
+ 
 <h1 align="center">Hi 👋, I'm Vikas Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  
- <img align="right" alt="coding" width="400" src="C:\Users\Vishi\Downloads\WhatsApp Image 2023-10-03 at 1.46.13 PM.jpeg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrathod2002&label=Profile%20views&color=0e75b6&style=flat" alt="vikasrathod2002" /> </p>
 
 - 🔭 I’m currently working on **Course Portal**
