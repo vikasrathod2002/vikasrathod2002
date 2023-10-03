@@ -1,4 +1,4 @@
-![logo](https://github.com/vikasrathod2002/vikasrathod2002/blob/main/WhatsApp%20Image%202023-10-03%20at%201.46.13%20PM.jpeg)
+![logo](https://thumbs.dreamstime.com/b/concept-coding-circuit-industrial-business-background-banner-background-vector-illustration-vector-illustration-many-uses-193407922.jpg)
 
 <h1 align="center">Hi 👋, I'm Vikas Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
