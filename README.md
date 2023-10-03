@@ -1,3 +1,5 @@
+ <img src="C:\Users\Vishi\Downloads\WhatsApp Image 2023-10-03 at 1.46.13 PM.jpeg" alt="vikasrathod2002" />
+
 <h1 align="center">Hi 👋, I'm Vikas Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  
